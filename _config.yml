@@ -1,0 +1,27 @@
+title: "IA e investigación en ciencias sociales"
+description: "Guía para estudiantes que escriben tesis y trabajos de investigación en ciencias sociales."
+author: "Germán Feierherd"
+
+# Theme
+theme: minima
+
+# Language
+lang: es
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation
+header_pages:
+  - index.md
+
+# Permalinks
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - "*.gem"
