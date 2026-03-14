@@ -3,9 +3,9 @@ layout: page
 title: Ejemplos de uso de AI por tarea
 ---
 
-# Ejemplos de uso de AI por tarea
+# Ejemplos de uso de la IA por tarea
 
-Los siguientes ejemplos están construidos a partir de proyectos típicos del seminario de trabajo de graduación en ciencia política y relaciones internacionales. Para cada tarea se muestra un contexto realista, el prompt que un estudiante podría usar, y una nota sobre qué hacer — y qué no hacer — con la respuesta.
+Los siguientes ejemplos están construidos a partir de proyectos típicos del seminario de trabajo de graduación en ciencia política y relaciones internacionales. Para cada tarea se muestra un contexto realista, el prompt que un estudiante podría usar y una nota sobre qué hacer — y qué no hacer — con la respuesta.
 
 ---
 
@@ -31,7 +31,7 @@ No necesito una revisión completa: quiero un mapa para orientar mis
 búsquedas en Google Scholar.
 ```
 
-**Qué hacer con la respuesta:** El modelo probablemente mencione autores como Gibson, Gervasoni o Giraudy, y debates sobre regímenes rentistas, control de límites y cooptación. Usá esos nombres como punto de partida para buscar sus artículos reales. No aceptes como válido ningún trabajo que no hayas verificado en una base de datos académica — incluso si el autor existe, el título puede ser incorrecto.
+**Qué hacer con la respuesta:** El modelo probablemente mencione autores como Gibson, Gervasoni o Giraudy, y debates sobre regímenes rentistas, *boundary control* y cooptación de las instituciones. Usá esos nombres como punto de partida para buscar sus artículos reales. No aceptes como válido ningún trabajo que no hayas verificado en una base de datos académica — incluso si el autor existe, el título puede ser incorrecto.
 
 ---
 
@@ -55,7 +55,7 @@ especializada en inglés.
   como el Multiple Streams Framework u otros?
 ```
 
-**Qué hacer con la respuesta:** El modelo probablemente sugiera términos como *agenda-setting*, *AI governance*, *regulatory frameworks*, *policy entrepreneurs*, y mencione a Kingdon o Baumgartner. Llevá esos términos a las bases de datos, verificá cuáles producen resultados relevantes, y ajustá las búsquedas según lo que encuentres.
+**Qué hacer con la respuesta:** El modelo probablemente sugiera términos como *agenda-setting*, *AI governance*, *regulatory frameworks*, *policy entrepreneurs*, y mencione a Kingdon o Baumgartner. Llevá esos términos a las bases de datos, verificá cuáles producen resultados relevantes y ajustá las búsquedas según lo que encuentres.
 
 ---
 
@@ -81,7 +81,7 @@ gana el mismo partido?"
 - distinguir si es una pregunta descriptiva o causal?
 ```
 
-**Qué hace el AI bien aquí:** El modelo debería señalar que "competencia política" necesita operacionalización (¿a qué nivel institucional — ejecutivo, legislativo, municipal?), que "siempre gana el mismo partido" requiere un umbral temporal y una definición de dominancia. También debería indicar que la pregunta original es más descriptiva que causal. Esas observaciones son genuinamente útiles.
+**Qué hace la IA bien:** El modelo debería señalar que "competencia política" necesita operacionalización (¿a qué nivel institucional — ejecutivo, legislativo, municipal?), que "siempre gana el mismo partido" requiere un umbral temporal y una definición de dominancia. También debería indicar que la pregunta original es más descriptiva que causal. Esas observaciones son genuinamente útiles.
 
 **Límite importante:** El modelo no puede decirte si la pregunta *vale la pena hacerse* o si está bien posicionada en la literatura. Esa evaluación requiere leer los trabajos de Gervasoni, Gibson y Giraudy directamente.
 
@@ -133,7 +133,7 @@ Para cada alternativa, ¿qué implicaciones observables la distinguirían
 de mi argumento?
 ```
 
-**Por qué es útil este prompt:** Las explicaciones alternativas son exactamente lo que un revisor o un jurado de tesis va a plantear. Anticiparlas antes de presentar el argumento es una práctica central del diseño de investigación riguroso. El AI puede sugerir alternativas como capacidades institucionales locales insuficientes, falta de voluntad política de los actores locales, o dependencia de recursos externos — alternativas que el trabajo de Belloni (2020) discute directamente y que el estudiante puede evaluar contra la literatura ya leída.
+**Por qué es útil este prompt:** Las explicaciones alternativas son exactamente lo que un revisor o un jurado de tesis va a plantear. Anticiparlas antes de presentar el argumento es una práctica central del diseño de investigación riguroso. La IA puede sugerir alternativas como capacidades institucionales locales insuficientes, falta de voluntad política de los actores locales, o dependencia de recursos externos.
 
 ---
 
@@ -157,7 +157,7 @@ Multiple Streams Framework de Kingdon.
 - qué podría fortalecerse en el diseño?
 ```
 
-**Qué hace el AI bien aquí:** El modelo debería señalar la tensión entre el alcance de la pregunta ("los Estados") y el diseño de caso único, la importancia de especificar qué tipo de inferencia hace el process tracing (causal vs. descriptiva), y posibles alternativas como la selección de un caso de control. Esas observaciones son válidas y pueden usarse para ajustar el argumento sobre los alcances del trabajo. Sin embargo, la decisión sobre si el diseño es aceptable dado el alcance de una tesis de grado es una conversación que tenés que tener con tu mentor y con el seminario, no con el AI.
+**Qué hace el AI bien aquí:** El modelo debería señalar la tensión entre el alcance de la pregunta ("los Estados") y el diseño de caso único, la importancia de especificar qué tipo de inferencia hace el process tracing (causal vs. descriptiva) y posibles alternativas como la selección de un caso de control. Esas observaciones son válidas y pueden usarse para ajustar el argumento sobre los alcances del trabajo. Sin embargo, la decisión sobre si el diseño es aceptable dado el alcance de una tesis de grado es una conversación que tenés que tener con tu mentor y con el profesor del seminario, no con la IA.
 
 ---
 
@@ -191,10 +191,10 @@ No reescribas el párrafo. Solo señalá los problemas con referencias
 a oraciones específicas.
 ```
 
-**Qué hace el AI bien aquí:** El modelo probablemente señale que "cooptar a la oposición" es un mecanismo que requiere evidencia, que "círculo vicioso" es una afirmación de equilibrio que no se justifica, y que la última oración introduce una observación que parece contradecir la primera sin explicar la relación entre ambas. Esas son críticas útiles. La estudiante puede entonces revisar el párrafo con sus propias palabras, no con las del modelo.
+**Qué hace la IA bien:** El modelo probablemente señale que "cooptar a la oposición" es un mecanismo que requiere evidencia, que "círculo vicioso" es una afirmación de equilibrio que no está del todo desarrollada y que la última oración introduce una observación que parece contradecir la primera sin explicar la relación entre ambas. Esas son críticas útiles. La estudiante puede entonces revisar el párrafo con sus propias palabras, no con las del modelo.
 
 ---
 
 ## Una nota sobre todos estos ejemplos
 
-En cada caso, el AI produce material útil para pensar — no conclusiones para copiar. La diferencia entre usar el AI como herramienta de pensamiento y usarlo como atajo se hace evidente exactamente en el momento en que tenés que defender tu trabajo oralmente: si el argumento es tuyo, podés defenderlo; si lo generó el modelo, no.
+En cada caso, la IA produce material útil para pensar — no conclusiones para copiar. La diferencia entre usar la IA como herramienta para pensar y usarlo como atajo se hace evidente exactamente en el momento en que tenés que defender tu trabajo oralmente: si el argumento es tuyo, podés defenderlo; si lo generó el modelo, no.

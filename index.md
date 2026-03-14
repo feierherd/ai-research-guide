@@ -12,7 +12,7 @@ Universidad de San Andrés
 
 ---
 
-La irrupción de herramientas de inteligencia artificial generativa ha transformado el entorno en el que se produce la investigación académica. Los modelos de lenguaje pueden sintetizar literatura, generar borradores, sugerir diseños de investigación y revisar argumentos con una fluidez que hace apenas cinco años era inimaginable. Esta capacidad, sin embargo, no convierte al AI en un investigador: convierte al investigador en alguien que debe aprender a usar una herramienta poderosa con criterio.
+La irrupción de herramientas de inteligencia artificial generativa transformó el entorno en el que se produce la investigación académica. Los modelos de lenguaje pueden sintetizar literatura, generar borradores, sugerir diseños de investigación y revisar argumentos con una fluidez que hace apenas cinco años era inimaginable. Esta capacidad, sin embargo, no convierte al AI en un investigador: convierte al investigador en alguien que debe aprender a usar una herramienta nueva con criterio.
 
 Esta guía no intenta resolver el debate sobre si el AI "amenaza" o "mejora" la ciencia social. Ese debate existe, es legítimo, y algunas de las lecturas del seminario lo abordan directamente — en particular Bail (2024) y Grimmer, Roberts y Stewart (2021). Lo que esta guía busca es más concreto: ayudar a los estudiantes a incorporar estas herramientas de manera responsable en el proceso de elaboración de su tesis.
 

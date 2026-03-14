@@ -7,7 +7,7 @@ title: 10 prompts que todo tesista debería conocer
 
 Los siguientes prompts cubren las tareas más frecuentes del proceso de elaboración de una tesis en ciencias sociales. Están pensados como puntos de partida: modificalos para que reflejen tu pregunta, tu diseño y tu contexto específico.
 
-En todos los casos aplica la misma advertencia: el AI es útil para explorar opciones. La evaluación de qué opción es correcta para tu proyecto es tu responsabilidad.
+En todos los casos aplica la misma advertencia: la IA es útil para explorar opciones. La evaluación de qué opción es correcta para tu proyecto es tu responsabilidad.
 
 ---
 
@@ -136,11 +136,7 @@ Aquí está el resumen de mi propuesta:
 
 Actuá como un revisor exigente. ¿Cuáles son las tres críticas más
 importantes? Para cada una: describí el problema, explicá por qué
-importa, y sugerí cómo podría responderse.
+importa y sugerí cómo podría responderse.
 ```
 
 ---
-
-## Nota importante
-
-Todos los trabajos que el AI mencione deben verificarse en Google Scholar, JSTOR u otras bases de datos académicas antes de ser citados. Nunca cites un trabajo que no leíste.

@@ -5,9 +5,7 @@ title: Cómo escribir buenos prompts
 
 # Cómo escribir buenos prompts
 
-La utilidad de una herramienta de AI depende casi enteramente de la calidad de las instrucciones que le das. Un prompt vago produce respuestas genéricas que no tienen en cuenta tu pregunta, tu diseño ni tu contexto. Un prompt bien construido produce respuestas que son genuinamente útiles para el problema específico que estás trabajando.
-
-La diferencia no es de estilo ni de cortesía — es de información. El modelo no sabe quién sos, qué estás haciendo ni qué necesitás, a menos que se lo digas.
+La utilidad de una herramienta de IA depende casi enteramente de la calidad de las instrucciones que le das. Un prompt vago produce respuestas genéricas que no tienen en cuenta tu pregunta, tu diseño ni tu contexto. El modelo no sabe quién sos, qué estás haciendo ni qué necesitás, a menos que se lo digas.
 
 ---
 
@@ -27,7 +25,7 @@ Un buen prompt para tareas de investigación incluye, en general, cuatro element
 
 ## Ejemplos comparados
 
-Los siguientes pares ilustran la diferencia entre un prompt débil y uno más efectivo para tareas habituales del seminario.
+Los siguientes ejemplos ilustran la diferencia entre un prompt débil y uno más efectivo para tareas habituales del seminario.
 
 ---
 
@@ -124,4 +122,4 @@ dependen electoralmente de los trabajadores informales.
 
 ## Un criterio para evaluar tus prompts
 
-Antes de enviar un prompt, preguntate: si yo no supiera nada de este proyecto y recibiera esta instrucción, ¿podría producir algo útil? Si la respuesta es no, el prompt necesita más contexto o más precisión. La inversión de unos minutos en construir un prompt cuidadoso se traduce en respuestas que requieren menos corrección y más uso directo.
+Antes de enviar un prompt, preguntate: si yo no supiera nada de este proyecto y recibiera esta instrucción, ¿podría producir algo útil? Si la respuesta es no, el prompt necesita más contexto o más precisión. La inversión de unos minutos en construir un prompt cuidadoso se traduce en respuestas que requieren menos corrección.

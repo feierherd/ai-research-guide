@@ -5,7 +5,7 @@ title: Prompts para la revisión de literatura
 
 # Prompts para la revisión de literatura
 
-Los siguientes prompts están diseñados para las etapas iniciales del proyecto de tesis, cuando el objetivo es construir un mapa preliminar de la literatura antes de comenzar la lectura sistemática. Todos los trabajos mencionados por el AI deben verificarse en bases de datos académicas antes de ser citados.
+Los siguientes prompts están diseñados para las etapas iniciales del proyecto de tesis, cuando el objetivo es construir un mapa preliminar de la literatura antes de comenzar la lectura sistemática. Todos los trabajos mencionados por la IA deben verificarse en bases de datos académicas antes de ser citados.
 
 ---
 
