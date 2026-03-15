@@ -1,0 +1,29 @@
+/* Minimal academic style — reduce header weight, improve readability */
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e5e5e5;
+  min-height: auto;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+.site-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.main-content {
+  padding-top: 1.2rem;
+}
+
+h1 {
+  font-size: 2.2rem;
+  line-height: 1.15;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
