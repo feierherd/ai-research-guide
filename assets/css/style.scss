@@ -1,0 +1,40 @@
+---
+---
+
+@import "minima";
+
+/* Make header minimal and less invasive */
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e5e5e5;
+  min-height: auto;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+.site-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.page-content {
+  padding-top: 1.2rem;
+}
+
+.post-header {
+  margin-bottom: 1rem;
+}
+
+.post-title,
+h1 {
+  font-size: 2.6rem;
+  line-height: 1.1;
+}
+
+/* Optional: remove header entirely if desired */
+/*
+.site-header {
+  display: none;
+}
+*/
