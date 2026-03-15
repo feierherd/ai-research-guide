@@ -1,9 +1,7 @@
 ---
-layout: home
-title: IA e investigación en ciencias sociales
+layout: page
+title: Inteligencia artificial e investigación en ciencias sociales
 ---
-
-# Inteligencia artificial e investigación en ciencias sociales
 
 Una guía para estudiantes que escriben tesis y trabajos de investigación.
 

@@ -3,8 +3,6 @@ layout: page
 title: Cómo explorar literatura con IA
 ---
 
-# Cómo explorar literatura con IA
-
 Una de las etapas más demandantes al comienzo de una tesis es construir un mapa de la literatura relevante sin saber todavía qué trabajos existen, qué debates organizan el campo, ni qué autores son canónicos. Las herramientas de IA pueden reducir considerablemente el tiempo que esa exploración inicial requiere.
 
 El AI puede ayudarte a generar una orientación preliminar. No puede reemplazar la lectura de los trabajos originales ni producir una revisión de literatura que sea académicamente válida.

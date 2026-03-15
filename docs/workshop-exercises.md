@@ -3,7 +3,6 @@ layout: page
 title: Ejercicios para el taller — Escritura académica y uso responsable de IA
 ---
 
-# Ejercicios para el taller
 ## Escritura académica y uso responsable de inteligencia artificial
 
 **Duración:** 90 minutos

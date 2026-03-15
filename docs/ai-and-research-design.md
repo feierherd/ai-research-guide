@@ -3,8 +3,6 @@ layout: page
 title: IA, diseño de investigación e inferencia
 ---
 
-# IA, diseño de investigación e inferencia
-
 Las discusiones sobre IA en la academia tienden a concentrarse en el plagio o en la productividad. Esas discusiones son importantes, pero evaden la pregunta más interesante: ¿qué puede hacer la IA por el proceso de inferencia científica y qué no puede hacer? Esta sección aborda esa pregunta tomando como punto de referencia los textos metodológicos del curso.
 
 ---

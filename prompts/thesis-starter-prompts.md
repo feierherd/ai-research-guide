@@ -3,8 +3,6 @@ layout: page
 title: 10 prompts que todo tesista debería conocer
 ---
 
-# 10 prompts que todo tesista debería conocer
-
 Los siguientes prompts cubren las tareas más frecuentes del proceso de elaboración de una tesis en ciencias sociales. Están pensados como puntos de partida: modificalos para que reflejen tu pregunta, tu diseño y tu contexto específico.
 
 En todos los casos aplica la misma advertencia: la IA es útil para explorar opciones. La evaluación de qué opción es correcta para tu proyecto es tu responsabilidad.

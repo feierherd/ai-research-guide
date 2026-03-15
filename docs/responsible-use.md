@@ -3,8 +3,6 @@ layout: page
 title: Uso responsable de la inteligencia artificial
 ---
 
-# Uso responsable de la inteligencia artificial
-
 El debate sobre la IA en la academia tiende a polarizarse entre quienes lo presentan como el fin del pensamiento crítico y quienes lo describen como una revolución que lo potencia. Ninguna de las dos posiciones es útil para un estudiante que tiene que escribir una tesis. Lo que importa no es la postura frente a la tecnología, sino saber qué tareas puede asumir una herramienta como ChatGPT, Claude o Gemini y cuáles le corresponden inevitablemente al investigador.
 
 La distinción no es técnica: es epistémica. La IA genera texto plausible a partir de patrones estadísticos en grandes corpus de datos. No evalúa evidencia, no tiene acceso privilegiado a la verdad y no puede decidir si una pregunta de investigación es interesante o si un diseño es válido. Esas decisiones requieren criterio sustantivo — conocimiento de la literatura, comprensión del problema empírico, intuición sobre qué mecanismos son creíbles en el contexto estudiado. Ese criterio lo traés vos.

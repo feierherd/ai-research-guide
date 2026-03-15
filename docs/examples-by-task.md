@@ -3,8 +3,6 @@ layout: page
 title: Ejemplos de uso de AI por tarea
 ---
 
-# Ejemplos de uso de la IA por tarea
-
 Los siguientes ejemplos están construidos a partir de proyectos típicos del seminario de trabajo de graduación en ciencia política y relaciones internacionales. Para cada tarea se muestra un contexto realista, el prompt que un estudiante podría usar y una nota sobre qué hacer — y qué no hacer — con la respuesta.
 
 ---

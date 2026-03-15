@@ -3,7 +3,7 @@ description: "Guía para estudiantes que escriben tesis y trabajos de investigac
 author: "Germán Feierherd"
 
 # Theme
-remote_theme: just-the-docs/just-the-docs
+theme: minima
 
 # Language
 lang: es

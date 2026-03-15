@@ -1,2 +1,77 @@
 ---
 ---
+
+@import "minima";
+
+/* Academic reading guide — minimal, sober */
+
+body {
+  color: #1a1a1a;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #ddd;
+  min-height: auto;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
+.site-title,
+.site-title:visited {
+  font-size: 0.95rem;
+  font-weight: normal;
+  color: #333;
+  letter-spacing: 0;
+}
+
+.site-nav .page-link {
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.wrapper {
+  max-width: 720px;
+}
+
+.page-content {
+  padding-top: 2rem;
+}
+
+.post-title {
+  font-size: 1.8rem;
+  line-height: 1.2;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.05rem;
+}
+
+a {
+  color: #1a1a7e;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 2rem 0;
+}
+
+.site-footer {
+  border-top: 1px solid #e0e0e0;
+  padding: 1rem 0;
+  font-size: 0.85rem;
+  color: #888;
+}

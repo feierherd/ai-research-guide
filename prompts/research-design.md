@@ -3,8 +3,6 @@ layout: page
 title: Prompts para el diseño de investigación
 ---
 
-# Prompts para el diseño de investigación
-
 Los siguientes prompts están diseñados para las etapas intermedias del proyecto, cuando el objetivo es refinar una pregunta de investigación, desarrollar un argumento y evaluar la viabilidad del diseño. Son más útiles cuando ya tenés una idea preliminar sobre qué querés estudiar.
 
 ---

@@ -3,8 +3,6 @@ layout: page
 title: El flujo de trabajo de la tesis con IA
 ---
 
-# El flujo de trabajo de la tesis con la IA
-
 La elaboración de una tesis en ciencias sociales sigue una lógica que King, Keohane y Verba describen con precisión: el investigador parte de un fenómeno observable, construye una explicación y diseña una estrategia para evaluar esa explicación con evidencia. Esa lógica no cambia porque existan herramientas de IA. Lo que cambia es la velocidad y el costo de algunas tareas auxiliares — explorar un campo de literatura, ordenar ideas, revisar un borrador — que antes consumían tiempo desproporcionado respecto de su valor intelectual.
 
 Esta sección mapea el proceso de elaboración del proyecto de graduación sobre las etapas en que la IA puede contribuir de manera genuina, y señala dónde la herramienta llega a su límite.
