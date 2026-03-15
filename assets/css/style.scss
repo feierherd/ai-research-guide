@@ -3,75 +3,92 @@
 
 @import "minima";
 
-/* Academic reading guide — minimal, sober */
-
 body {
-  color: #1a1a1a;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #111;
 }
 
+.wrapper {
+  max-width: 680px;
+}
+
+/* Thin nav bar at top — nothing more */
 .site-header {
   border-top: none;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ccc;
   min-height: auto;
-  padding-top: 0.6rem;
-  padding-bottom: 0.6rem;
+  padding: 0.35rem 0;
+  background: #fff;
 }
 
 .site-title,
 .site-title:visited {
-  font-size: 0.95rem;
+  font-size: 0.8rem;
   font-weight: normal;
-  color: #333;
+  color: #888;
   letter-spacing: 0;
 }
 
 .site-nav .page-link {
-  font-size: 0.9rem;
-  color: #444;
-}
-
-.wrapper {
-  max-width: 720px;
+  font-size: 0.8rem;
+  color: #555;
 }
 
 .page-content {
-  padding-top: 2rem;
+  padding-top: 2.5rem;
+  padding-bottom: 4rem;
 }
 
+/* Page title from front matter */
 .post-title {
-  font-size: 1.8rem;
-  line-height: 1.2;
-  font-weight: 700;
-  margin-bottom: 1.5rem;
+  font-size: 1.55rem;
+  font-weight: bold;
+  line-height: 1.25;
+  margin-bottom: 0.4rem;
+  color: #111;
 }
 
 h2 {
-  font-size: 1.25rem;
-  margin-top: 2rem;
+  font-size: 1.05rem;
+  font-weight: bold;
+  margin-top: 2.2rem;
+  margin-bottom: 0.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #333;
 }
 
 h3 {
-  font-size: 1.05rem;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 1.5rem;
 }
 
 a {
-  color: #1a1a7e;
+  color: #111;
+  text-decoration: underline;
 }
 
 a:hover {
   color: #000;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 hr {
   border: none;
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #ddd;
   margin: 2rem 0;
 }
 
+code, pre {
+  font-size: 0.88rem;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+}
+
+/* Kill the footer */
 .site-footer {
-  border-top: 1px solid #e0e0e0;
-  padding: 1rem 0;
-  font-size: 0.85rem;
-  color: #888;
+  display: none;
 }
