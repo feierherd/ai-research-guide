@@ -1,6 +1,10 @@
 # Theme
 theme: minima
 
+# Site metadata (empty to suppress default site-title)
+title: ""
+description: ""
+
 # Language
 lang: es
 

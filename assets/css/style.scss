@@ -25,7 +25,7 @@ body {
 
 .site-title,
 .site-title:visited {
-  display: none;
+  display: none !important;
 }
 
 .site-nav .page-link {
@@ -87,5 +87,5 @@ code, pre {
 
 /* Kill the footer */
 .site-footer {
-  display: none;
+  display: none !important;
 }
