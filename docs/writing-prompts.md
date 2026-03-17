@@ -117,7 +117,3 @@ dependen electoralmente de los trabajadores informales.
 ```
 
 ---
-
-## Un criterio para evaluar tus prompts
-
-Antes de enviar un prompt, preguntate: si yo no supiera nada de este proyecto y recibiera esta instrucción, ¿podría producir algo útil? Si la respuesta es no, el prompt necesita más contexto o más precisión. La inversión de unos minutos en construir un prompt cuidadoso se traduce en respuestas que requieren menos corrección.

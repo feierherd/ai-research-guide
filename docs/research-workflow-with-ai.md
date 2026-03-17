@@ -13,7 +13,7 @@ Esta sección mapea el proceso de elaboración del proyecto de graduación sobre
 
 La mayoría de los proyectos de tesis comienzan con un interés amplio y poco definido: "me interesa la corrupción", "quiero estudiar la justicia", "me pregunto por qué los sindicatos pierden poder". Esa indeterminación es normal al principio, pero necesita resolverse rápido. La IA puede ayudar a ese proceso de clarificación.
 
-Un buen punto de partida es pedirle al modelo que te ayude a identificar qué preguntas de investigación estudian los académicos en el área que te interesa, qué debates existen en la literatura y qué estrategias empíricas se usan con frecuencia. El objetivo no es obtener una respuesta definitiva — es generar un mapa preliminar que oriente ***tus*** búsquedas en bases de datos académicas.
+Un buen punto de partida es pedirle al modelo que te ayude a identificar qué preguntas de investigación estudian los académicos en el área que te interesa, qué debates existen en la literatura y qué estrategias empíricas se usan con frecuencia. El objetivo no es obtener una respuesta definitiva — es generar un mapa preliminar que oriente tus búsquedas en bases de datos académicas.
 
 **Prompt de ejemplo:**
 
@@ -42,7 +42,7 @@ Para una guía detallada sobre cómo usar lsa IA en esta etapa — incluyendo c�
 
 ## Etapa 3 — Formular la pregunta de investigación
 
-Una buena pregunta de investigación es empíricamente contestable, teóricamente interesante y factible dado el tiempo y los recursos disponibles. Llegar a esa pregunta es uno de los trabajos intelectuales más difíciles de la tesis, y la IA puede ser útil como interlocutor en ese proceso — no para decidir qué pregunta hacerse, sino para ayudarte a ver si la que ya tenés es suficientemente precisa.
+Una buena pregunta de investigación es empíricamente contestable, teóricamente interesante y factible dado el tiempo y los recursos disponibles. Llegar a esa pregunta es uno de los trabajos intelectuales más difíciles de la tesis y la IA puede ser útil como interlocutor en ese proceso — no para decidir qué pregunta hacerse, sino para ayudarte a ver si la que ya tenés es suficientemente precisa.
 
 **Prompt de ejemplo:**
 
@@ -82,7 +82,7 @@ argumento de esas alternativas?
 
 El diseño de investigación es el corazón metodológico de la tesis. Determina qué evidencia es relevante, cómo vas a recolectarla y qué inferencias podés extraer. Dunning (2012) argumenta que la calidad de la inferencia depende del diseño, no del tamaño de la muestra ni de la sofisticación estadística. La IA no puede diseñar tu investigación — pero puede ayudarte a pensar en las fortalezas y debilidades de distintas estrategias.
 
-Una aplicación particularmente útil es pedirle al modelo que identifique amenazas a la inferencia causal en el diseño que estás proponiendo. Los textos de Green y Gerber sobre la sub-provisión de experimentos, o los capítulos de Dunning sobre experimentos naturales, te pueden ayudar a identificar esas posibles amenazas.
+Una aplicación particularmente útil es pedirle al modelo que identifique amenazas a la inferencia causal en el diseño que estás proponiendo. 
 
 **Prompt de ejemplo:**
 
@@ -101,7 +101,7 @@ usando datos del Poder Judicial de la Nación.
 
 ## Etapa 6 — Identificar y recolectar datos
 
-**En esta etapa, la IA puede ayudarte a pensar en qué tipos de datos existen para estudiar tu pregunta y dónde podrían encontrarse. La decisión sobre qué datos recolectar y cómo construir las variables, en cambio, requiere conocimiento sustantivo del caso que el AI no tiene.**
+En esta etapa, la IA puede ayudarte a pensar en qué tipos de datos existen para estudiar tu pregunta y dónde podrían encontrarse. La decisión sobre qué datos recolectar y cómo construir las variables, en cambio, requiere conocimiento sustantivo del caso que la IA no tiene.
 
 El criterio que el programa del seminario plantea para la entrega intermedia aplica directamente aquí: antes de seguir avanzando, tenés que poder responder con precisión qué datos concretos vas a usar, si tenés acceso a ellos y qué resultado empírico confirmaría o refutaría tu argumento. Si no podés responder esas tres preguntas, el diseño está incompleto.
 

@@ -3,9 +3,9 @@ layout: page
 title: Uso responsable de la inteligencia artificial
 ---
 
-El debate sobre la inteligencia artificial en la academia sigue siendo incipiente y cargado de incertidumbre. Se discuten riesgos reales — plagio automatizado, erosión del pensamiento crítico, propagación de errores — pero esas dudas no han impedido una adopción extendida en ámbitos educativos y académicos de todo el mundo, aunque rara vez se la declare o reconozca abiertamente. Esta convivencia entre incertidumbre generalizada y uso masivo define el contexto en que esta guía fue escrita.
+El debate sobre la inteligencia artificial en la academia sigue siendo incipiente y cargado de incertidumbre. Se discuten riesgos reales — plagio automatizado, erosión del pensamiento crítico, propagación de errores — pero esas dudas no han impedido una adopción extendida en ámbitos educativos y académicos de todo el mundo. Esta convivencia entre incertidumbre generalizada y uso masivo define el contexto en que esta guía fue escrita.
 
-El debate público oscila entre el entusiasmo de los optimistas y el rechazo de quienes presentan la IA como el fin del pensamiento crítico. Ninguna de esas posiciones es útil para un estudiante que tiene que escribir una tesis. Lo que importa no es la postura frente a la tecnología, sino saber qué tareas puede asumir una herramienta como ChatGPT, Claude o Gemini y cuáles le corresponden inevitablemente al investigador.
+Herramientas como ChatGPT, Claude o Gemini pueden asumir muchas tareas auxiliares del  proceso de investigación — explorar literatura, organizar ideas, revisar borradores — pero las decisiones sustantivas le corresponden inequívocamente al investigador.
 
 La distinción es epistémica. La IA genera texto plausible a partir de patrones estadísticos en grandes corpus de datos. No tiene acceso privilegiado a la verdad y no puede decidir si una pregunta de investigación es interesante o si un diseño es válido. Esas decisiones requieren criterio sustantivo — conocimiento de la literatura, comprensión del problema empírico, intuición sobre qué mecanismos son creíbles en el contexto estudiado. Ese criterio lo tiene el investigador.
 
@@ -25,11 +25,11 @@ Hay usos de la IA que comprometen la integridad del trabajo académico, con inde
 
 - No uses la IA para generar argumentos que no entendés. 
 
-**Si incorporás al trabajo una idea que la IA produjo y vos no podés defenderla en una discusión, el problema es que tu tesis tiene un argumento que no es tuyo.** 
+*Si incorporás al trabajo una idea que la IA produjo y vos no podés defenderla en una discusión, el problema es que tu tesis tiene un argumento que no es tuyo.*
 
 - No cites fuentes que la IA sugirió sin verificarlas. 
 
-**Los modelos de lenguaje generan referencias falsas. A este fenómeno se lo conoce como *alucinación* — la producción de datos bibliográficos que suenan plausibles pero no existen. Antes de citar cualquier trabajo sugerido por la IA, verificalo en Google Scholar, JSTOR o Web of Science.**
+*Los modelos de lenguaje generan referencias falsas. A este fenómeno se lo conoce como alucinación. Antes de citar cualquier trabajo sugerido por la IA, verificalo en Google Scholar, JSTOR o Web of Science.* 
 
 - No uses IA para reemplazar la lectura. 
 

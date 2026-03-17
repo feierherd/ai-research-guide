@@ -5,7 +5,7 @@ title: Cómo explorar literatura con IA
 
 Una de las etapas más demandantes al comienzo de una tesis es construir un mapa de la literatura relevante sin saber todavía qué trabajos existen, qué debates organizan el campo, ni qué autores son canónicos. Las herramientas de IA pueden reducir considerablemente el tiempo que esa exploración inicial requiere.
 
-El AI puede ayudarte a generar una orientación preliminar. No puede reemplazar la lectura de los trabajos originales ni producir una revisión de literatura que sea académicamente válida.
+La IA puede ayudarte a generar una orientación preliminar. No puede reemplazar la lectura de los trabajos originales ni producir una revisión de literatura que sea académicamente válida.
 
 ---
 
@@ -31,8 +31,7 @@ en América Latina para mi tesis de grado en ciencia política.
 - describir las estrategias empíricas más comunes,
 - sugerir keywords que pueda usar en Google Scholar?
 
-Aclaración: voy a verificar todas las referencias que mencionés en bases
-de datos académicas antes de usarlas.
+
 ```
 
 ---
@@ -94,9 +93,7 @@ Necesito entender estas distinciones antes de leer la literatura especializada.
 
 ## Cómo verificar las fuentes que la IA sugiere
 
-Los modelos de lenguaje generan referencias bibliográficas que no son confiables. Un modelo puede producir un artículo perfectamente plausible que simplemente no existe. A este fenómeno se lo conoce como *alucinación* y es uno de los riesgos más concretos del uso de IA en la investigación académica.
-
-El procedimiento de verificación es siempre el mismo. Buscá el título exacto en Google Scholar; si el artículo existe, debería aparecer en los primeros resultados. Verificá que los datos coincidan: autor, año, revista o editorial, volumen y número. Localizá el texto completo a través de JSTOR, Web of Science, Scopus o el catálogo de la biblioteca. Leé las secciones relevantes — tanto para confirmar que el trabajo existe como para asegurarte de que **dice lo que la IA dice que dice**. Solo entonces citá y citá desde el texto original.
+El procedimiento de verificación es siempre el mismo. Buscá el título exacto en Google Scholar; si el artículo existe, debería aparecer en los primeros resultados. Verificá que los datos coincidan: autor, año, revista o editorial, volumen y número. Localizá el texto completo a través de JSTOR, Web of Science, Scopus o el catálogo de la biblioteca. Leé las secciones relevantes — tanto para confirmar que el trabajo existe como para asegurarte de que dice lo que la IA dice que dice. Solo entonces citá y citá desde el texto original.
 
 ---
 
