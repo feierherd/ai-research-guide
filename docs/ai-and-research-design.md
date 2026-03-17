@@ -3,13 +3,13 @@ layout: page
 title: IA, diseño de investigación e inferencia
 ---
 
-Las discusiones sobre IA en la academia tienden a concentrarse en el plagio o en la productividad. Esas discusiones son importantes, pero evaden la pregunta más interesante: ¿qué puede hacer la IA por el proceso de inferencia científica y qué no puede hacer? Esta sección aborda esa pregunta tomando como punto de referencia los textos metodológicos del curso.
+Las discusiones sobre IA en la academia tienden a concentrarse en el plagio o en la productividad. Esas discusiones son importantes, pero evaden la pregunta más interesante: ¿qué puede hacer la IA por el proceso de inferencia científica y qué no puede hacer? Esta sección aborda esa pregunta tomando como punto de referencia los textos metodológicos del taller.
 
 ---
 
 ## La lógica de la inferencia científica
 
-King, Keohane y Verba argumentan que la investigación en ciencias sociales — cualitativa o cuantitativa — se organiza alrededor de la misma lógica: el investigador observa una parte del mundo, construye una explicación, y evalúa esa explicación produciendo implicaciones observables que la evidencia podría refutar. Lo que distingue al conocimiento científico de la mera opinión no es solamente el método, sino la disposición a que los datos contradigan las hipótesis.
+King, Keohane y Verba argumentan que la investigación en ciencias sociales — cualitativa o cuantitativa — se organiza alrededor de la misma lógica: el investigador observa una parte del mundo, construye una explicación y evalúa esa explicación produciendo implicaciones observables que la evidencia podría refutar. Lo que distingue al conocimiento científico de la mera opinión no es solamente el método, sino la disposición a que los datos contradigan las hipótesis.
 
 Los modelos de lenguaje no tienen esa disposición. Generan texto que maximiza la coherencia y la plausibilidad — lo que produce respuestas que suenan convincentes con independencia de si son verdaderas. Esa característica no los hace inútiles, pero define con precisión los límites de su utilidad: son buenos generando argumentos plausibles, no buenos evaluando si esos argumentos son correctos.
 

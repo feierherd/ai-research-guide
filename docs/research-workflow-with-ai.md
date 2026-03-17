@@ -3,9 +3,9 @@ layout: page
 title: El flujo de trabajo de la tesis con IA
 ---
 
-La elaboración de una tesis en ciencias sociales sigue una lógica que King, Keohane y Verba describen con precisión: el investigador parte de un fenómeno observable, construye una explicación y diseña una estrategia para evaluar esa explicación con evidencia. Esa lógica no cambia porque existan herramientas de IA. Lo que cambia es la velocidad y el costo de algunas tareas auxiliares — explorar un campo de literatura, ordenar ideas, revisar un borrador — que antes consumían tiempo desproporcionado respecto de su valor intelectual.
+La elaboración de una tesis en ciencias sociales sigue una lógica que King, Keohane y Verba (1994) describen con precisión: el investigador parte de un fenómeno observable, construye una explicación y diseña una estrategia para evaluar esa explicación con evidencia. Esa lógica no cambia porque existan herramientas de IA. Lo que cambia es la velocidad y el costo de algunas tareas auxiliares — explorar un campo de literatura, ordenar ideas, revisar un borrador — que antes consumían tiempo desproporcionado respecto de su valor intelectual.
 
-Esta sección mapea el proceso de elaboración del proyecto de graduación sobre las etapas en que la IA puede contribuir de manera genuina, y señala dónde la herramienta llega a su límite.
+Esta sección mapea el proceso de elaboración del proyecto de graduación sobre las etapas en que la IA puede contribuir de manera genuina.
 
 ---
 
@@ -34,7 +34,7 @@ Lo que la IA genera en respuesta a este prompt es un punto de partida, no una re
 
 ## Etapa 2 — Explorar la literatura
 
-Una vez identificado el tema, el paso siguiente es construir un mapa de la literatura relevante. La IA puede sugerir autores, debates y palabras clave — pero con una advertencia importante: los modelos de lenguaje tienen fecha de corte, pueden confundir autores con títulos y en ocasiones (aunque cada vez menos) generan referencias que no existen. El criterio de Grimmer, Roberts y Stewart sobre análisis de texto automatizado aplica acá con igual fuerza: la validez de la medición — en este caso, si la literatura que identificás es realmente relevante para tu pregunta — es una decisión que no podés delegar en la IA.
+Una vez identificado el tema, el paso siguiente es construir un mapa de la literatura relevante. La IA puede sugerir autores, debates y palabras clave — pero con una advertencia importante: los modelos de lenguaje tienen fecha de corte, pueden confundir autores con títulos y en ocasiones generan referencias que no existen. El criterio de Grimmer, Roberts y Stewart sobre análisis de texto automatizado aplica acá con igual fuerza: la validez de la medición — en este caso, si la literatura que identificás es realmente relevante para tu pregunta — es una decisión que no podés delegar en la IA.
 
 Para una guía detallada sobre cómo usar lsa IA en esta etapa — incluyendo cómo generar keywords, organizar la literatura y verificar fuentes — ver [Cómo explorar literatura con AI](using-ai-for-literature.md).
 
@@ -124,9 +124,9 @@ Por ejemplo:
 
 ## Etapa 7 — Escribir y revisar
 
-La IA es más útil en la escritura como revisor de claridad, no como redactor. Si le pasás un párrafo que ya escribiste y le pedís que identifique problemas de estructura o argumento, el resultado suele ser útil. Si le pedís que escriba el párrafo por vos, el resultado tiende a ser genérico, excesivamente fluido, y carente de la especificidad que requiere un trabajo académico.
+La IA es más útil en la escritura como revisor de claridad, no como redactor. Si le pasás un párrafo que ya escribiste y le pedís que identifique problemas de estructura o argumento, el resultado suele ser útil. Si le pedís que escriba el párrafo por vos, el resultado tiende a ser genérico, excesivamente fluido y carente de la especificidad que requiere un trabajo académico.
 
-La regla práctica es sencilla: el AI puede sugerirte cómo decir mejor algo que ya entendés. No puede entender algo por vos y después explicarlo.
+La regla práctica es sencilla: la IA puede sugerirte cómo decir mejor algo que ya entendés. No puede entender algo por vos y después explicarlo.
 
 **Prompt de ejemplo:**
 

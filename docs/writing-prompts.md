@@ -3,7 +3,7 @@ layout: page
 title: Cómo escribir buenos prompts
 ---
 
-La utilidad de una herramienta de IA depende casi enteramente de la calidad de las instrucciones que le das. Un prompt vago produce respuestas genéricas que no tienen en cuenta tu pregunta, tu diseño ni tu contexto. El modelo no sabe quién sos, qué estás haciendo ni qué necesitás, a menos que se lo digas.
+La utilidad de una herramienta de IA depende casi enteramente de la calidad de las instrucciones que le das. Un prompt vago produce respuestas genéricas que no tienen en cuenta tu pregunta, tu diseño ni el contexto. 
 
 ---
 

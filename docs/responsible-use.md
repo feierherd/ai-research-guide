@@ -3,15 +3,17 @@ layout: page
 title: Uso responsable de la inteligencia artificial
 ---
 
-El debate sobre la IA en la academia tiende a polarizarse entre quienes lo presentan como el fin del pensamiento crítico y quienes lo describen como una revolución que lo potencia. Ninguna de las dos posiciones es útil para un estudiante que tiene que escribir una tesis. Lo que importa no es la postura frente a la tecnología, sino saber qué tareas puede asumir una herramienta como ChatGPT, Claude o Gemini y cuáles le corresponden inevitablemente al investigador.
+El debate sobre la inteligencia artificial en la academia sigue siendo incipiente y cargado de incertidumbre. Se discuten riesgos reales — plagio automatizado, erosión del pensamiento crítico, propagación de errores — pero esas dudas no han impedido una adopción extendida en ámbitos educativos y académicos de todo el mundo, aunque rara vez se la declare o reconozca abiertamente. Esta convivencia entre incertidumbre generalizada y uso masivo define el contexto en que esta guía fue escrita.
 
-La distinción no es técnica: es epistémica. La IA genera texto plausible a partir de patrones estadísticos en grandes corpus de datos. No evalúa evidencia, no tiene acceso privilegiado a la verdad y no puede decidir si una pregunta de investigación es interesante o si un diseño es válido. Esas decisiones requieren criterio sustantivo — conocimiento de la literatura, comprensión del problema empírico, intuición sobre qué mecanismos son creíbles en el contexto estudiado. Ese criterio lo traés vos.
+El debate público oscila entre el entusiasmo de los optimistas y el rechazo de quienes presentan la IA como el fin del pensamiento crítico. Ninguna de esas posiciones es útil para un estudiante que tiene que escribir una tesis. Lo que importa no es la postura frente a la tecnología, sino saber qué tareas puede asumir una herramienta como ChatGPT, Claude o Gemini y cuáles le corresponden inevitablemente al investigador.
+
+La distinción es epistémica. La IA genera texto plausible a partir de patrones estadísticos en grandes corpus de datos. No tiene acceso privilegiado a la verdad y no puede decidir si una pregunta de investigación es interesante o si un diseño es válido. Esas decisiones requieren criterio sustantivo — conocimiento de la literatura, comprensión del problema empírico, intuición sobre qué mecanismos son creíbles en el contexto estudiado. Ese criterio lo tiene el investigador.
 
 ---
 
 ## Qué podés hacer con IA
 
-Las herramientas de IA son más útiles en las etapas exploratorias y organizativas del proceso de investigación. En primer lugar, pueden ayudarte a mapear un campo de literatura antes de que hayas leído en profundidad — generando una estructura preliminar de debates, autores relevantes y estrategias empíricas comunes. En segundo lugar, pueden ayudarte a articular una idea que todavía está confusa. En tercer lugar, pueden revisar la claridad y estructura de un texto que ya escribiste.
+Las herramientas de IA son especialmente útiles en las etapas exploratorias y organizativas del proceso de investigación. En primer lugar, pueden ayudarte generar una estructura preliminar de debates, autores relevantes y estrategias empíricas comunes. En segundo lugar, pueden ayudarte a articular una idea que todavía está confusa. Tercero, pueden revisar la claridad y estructura de un texto que ya escribiste.
 
 Otras aplicaciones legítimas incluyen la generación de keywords para búsquedas bibliográficas, la comparación de enfoques teóricos, la discusión de posibles diseños de investigación y la identificación de explicaciones alternativas al argumento que estás desarrollando. 
 
@@ -23,15 +25,15 @@ Hay usos de la IA que comprometen la integridad del trabajo académico, con inde
 
 - No uses la IA para generar argumentos que no entendés. 
 
-Si incorporás al trabajo una idea que la IA produjo y vos no podés defenderla en una discusión, el problema no es de honestidad formal: es que tu tesis tiene un argumento que no es tuyo. 
+**Si incorporás al trabajo una idea que la IA produjo y vos no podés defenderla en una discusión, el problema es que tu tesis tiene un argumento que no es tuyo.** 
 
 - No cites fuentes que la IA sugirió sin verificarlas. 
 
-Los modelos de lenguaje generan referencias falsas. A este fenómeno se lo conoce como *alucinación* — la producción de datos bibliográficos que suenan plausibles pero no existen. Antes de citar cualquier trabajo sugerido por la IA, verificalo en Google Scholar, JSTOR o Web of Science.
+**Los modelos de lenguaje generan referencias falsas. A este fenómeno se lo conoce como *alucinación* — la producción de datos bibliográficos que suenan plausibles pero no existen. Antes de citar cualquier trabajo sugerido por la IA, verificalo en Google Scholar, JSTOR o Web of Science.**
 
 - No uses IA para reemplazar la lectura. 
 
-Los resúmenes que generan estos modelos son simplificaciones que con frecuencia omiten matices cruciales. No hay sustituto para leer los trabajos relevantes.
+**Los resúmenes que generan estos modelos son simplificaciones que con frecuencia omiten matices cruciales. No hay sustituto para leer los trabajos relevantes.**
 
 ---
 
@@ -49,4 +51,4 @@ Un ejemplo de declaración apropiada:
 
 El uso de IA no modifica los principios básicos de honestidad intelectual. Sos responsable de las ideas que presentás, de las fuentes que citás y de la originalidad del análisis. 
 
-El criterio práctico más útil es este: si no podés explicar con tus propias palabras cada afirmación que aparece en tu trabajo — de dónde viene, qué evidencia la sostiene, por qué la incluiste — entonces esa afirmación no debería estar. Ese criterio aplica con igual fuerza a las ideas propias, a las citas de la literatura y a los fragmentos que la IA haya sugerido o redactado.
+El criterio práctico más útil es este: si no podés explicar con tus propias palabras cada afirmación que aparece en tu trabajo — de dónde viene, qué evidencia la sostiene, por qué la incluiste — entonces esa afirmación no debería estar. Ese criterio aplica a las ideas propias, a las citas de la literatura y a los fragmentos que la IA haya sugerido o redactado.
