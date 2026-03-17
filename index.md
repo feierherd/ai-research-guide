@@ -34,10 +34,7 @@ Esta guía no intenta resolver el debate sobre si la IA "amenaza" o "mejora" la 
 
 - [Uso responsable de la inteligencia artificial](docs/responsible-use.md)
 - [El flujo de trabajo de la tesis con AI](docs/research-workflow-with-ai.md)
-<!--
-- [AI, diseño de investigación e inferencia](**en elaboración**)
-(docs/ai-and-research-design.md)
--->
+
 
 ### Guías y prompts
 
