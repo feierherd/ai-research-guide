@@ -23,23 +23,6 @@ Mi pregunta de investigación tentativa es:
 
 ---
 
-## Distinguir pregunta descriptiva de causal
-
-```
-Tengo dos versiones de mi pregunta de investigación:
-
-Versión descriptiva: "[pegar]"
-Versión causal: "[pegar]"
-
-¿Podés explicarme:
-- qué implicaciones tiene cada versión para el diseño,
-- qué tipo de evidencia necesitaría cada una,
-- cuál sería más factible dadas las limitaciones habituales de una tesis
-  de grado?
-```
-
----
-
 ## Desarrollar un mecanismo causal
 
 ```
