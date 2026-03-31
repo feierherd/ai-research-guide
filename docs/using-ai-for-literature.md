@@ -97,6 +97,14 @@ El procedimiento de verificación es siempre el mismo. Buscá el título exacto 
 
 ---
 
+## Cómo leer cada paper una vez que lo tenés
+
+Encontrar los trabajos correctos es solo la mitad del trabajo. Leerlos críticamente — evaluar qué establecen realmente, qué asumen sin defender y hasta dónde viajan sus conclusiones — es la otra mitad.
+
+Para esa etapa, ver [Cómo leer un paper con IA](reading-papers-with-ai.md).
+
+---
+
 ## Las limitaciones que no podés ignorar
 
 Los modelos de lenguaje presentan tres limitaciones que son especialmente relevantes en esta etapa del trabajo.

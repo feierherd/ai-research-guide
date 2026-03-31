@@ -40,6 +40,7 @@ Esta guía no intenta resolver el debate sobre si la IA "amenaza" o "mejora" la 
 
 - [Principios para escribir prompts efectivos](docs/writing-prompts.md)
 - [Cómo explorar literatura con IA](docs/using-ai-for-literature.md)
+- [Cómo leer un paper con IA](docs/reading-papers-with-ai.md)
 - [Prompts para el diseño de investigación](prompts/research-design.md)
 
 <!--
