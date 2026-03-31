@@ -142,9 +142,3 @@ Aquí está el párrafo de introducción de mi sección de diseño de investigac
 
 No reescribas el párrafo: solo señalá los problemas.
 ```
-
----
-
-## Una regla simple
-
-El AI puede ayudarte a pensar. No puede pensar por vos. La responsabilidad intelectual del trabajo — la pregunta que elegiste, el argumento que construiste, el diseño que propusiste, la evidencia que analizaste — es tuya.
