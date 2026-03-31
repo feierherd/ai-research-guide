@@ -33,7 +33,7 @@ Hay usos de la IA que comprometen la integridad del trabajo académico, con inde
 
 - No uses IA para reemplazar la lectura. 
 
-**Los resúmenes que generan estos modelos son simplificaciones que con frecuencia omiten matices cruciales. No hay sustituto para leer los trabajos relevantes.**
+*Los resúmenes que generan estos modelos son simplificaciones que con frecuencia omiten matices cruciales. No hay sustituto para leer los trabajos relevantes.*
 
 ---
 
