@@ -7,9 +7,9 @@ Hay dos formas de leer un artículo académico.
 
 La primera es leerlo para poder describirlo: entender qué estudió, qué encontró, qué método usó. Es lo que produce un resumen competente. La mayoría de los estudiantes leen así.
 
-La segunda es leerlo para evaluarlo: determinar qué establece realmente, qué no establece, qué asume sin defender, hasta dónde viajan sus conclusiones. Es lo que hace un investigador con experiencia — y lo que un árbitro de revista hace sistemáticamente.
+La segunda es leerlo para evaluarlo: determinar qué establece realmente, qué no establece, qué asume sin defender, hasta dónde viajan sus conclusiones. Es lo que hace un investigador con experiencia.
 
-La IA puede ayudarte a pasar de la primera forma a la segunda. Pero solo si ya leíste el paper. Ese es el punto de partida obligatorio de todo lo que sigue.
+La IA puede ayudarte a pasar de la primera forma a la segunda. **Pero solo si ya leíste el paper**. 
 
 ---
 
